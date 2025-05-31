@@ -24,3 +24,12 @@ To consistently and efficiently drive the electrons you need a sort of flat MW a
 
     <img src='./images/Picture1.png' width="100" height="200"> <img src='./images/Picture2.png' width="300" height="100">
 <br>
+
+1. Double Click Electromagnetic Waves, Frequency Domain (emw) under Select Physics. 
+    <img src='./images/Picture3.png' width="300" height="200">
+
+1. Click study, then click Frequency Domain. 
+    <img src='./images/Picture4.png' width="300" height="200">
+
+1. This opens up an empty project. Now we define geometry. The rough parameters for the stripline to maintain a ~50Ω characteristic impedance are as follows: (Use the Coplanar Waveguide Calculator on https://www.microwaves101.com/calculators/864-coplanar-waveguide-calculator 
+    <img src='./images/Picture5.png' width="400" height="200">
