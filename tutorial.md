@@ -21,5 +21,5 @@ To consistently and efficiently drive the electrons you need a sort of flat MW a
 ### Step-by-step Tutorial
 
 1. Open COMSOL, start a new project, choose "Model Wizard".
-<img src='./images/Picture1.png' width="200" height="100">
+<img src='./images/Picture1.png' width="100" height="200"> <img src='./images/Picture2.png' width="200" height="100">
 <br>
