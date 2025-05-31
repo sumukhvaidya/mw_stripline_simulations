@@ -15,3 +15,4 @@ B_{MW} sin(\omega_{MW} t + \phi)
 $$
 Where $B_{MW}$ is the amplitude of the driving field. 
 To consistently and efficiently drive the electrons you need a sort of flat MW amplitude across this grequency range.
+
