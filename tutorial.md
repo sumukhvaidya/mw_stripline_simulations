@@ -1,4 +1,4 @@
-*** Introduction
+### Introduction
 This is a simple tutorial to simulate the magnetic field and transmission characteristics of a microwave (MW) stripline waveguide for the purposes of quantum sensing experiments.
 
 A (very) tiny bit of background first.
@@ -18,7 +18,7 @@ Where $B_{MW}$ is the amplitude of the driving field.
 To consistently and efficiently drive the electrons you need a sort of flat MW amplitude across this grequency range.
 
 
-*** Step-by-step Tutorial
+### Step-by-step Tutorial
 
-<img src='./images/Pucture1.png' width="600" height="400">
+<img src='./images/Picture1.png' width="600" height="400">
 <br>
