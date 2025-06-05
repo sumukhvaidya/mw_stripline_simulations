@@ -22,7 +22,7 @@ To check the transmission characteristics we use the Scattering parameters $S_{1
 
 
 Since our Quantum Mechanical spin flip operator is 
-$$B_{MW} sin (\omega_{MW}t) \textbf{S_X}$$
+$$B_{MW} sin (\omega_{MW}t) S_X$$
 
 We should examine the average value of the magnetic field across the stripline as a function of the frequency. This will give us information about the field uniformity and give some idea of where to ideally position our sample for optimal spin control.
 
